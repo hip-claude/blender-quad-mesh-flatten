@@ -11,7 +11,7 @@ A Blender addon that flattens quad meshes by selecting 4 vertices and projecting
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/blender-quad-mesh-flatten/releases) page
+1. Download the latest release from the [Releases](https://github.com/hip-claude/blender-quad-mesh-flatten/releases) page
 2. In Blender, go to `Edit > Preferences > Add-ons`
 3. Click `Install...` and select the downloaded `quad_mesh_flatten.py` file
 4. Enable the addon by checking the box next to "Quad Mesh Flatten"
